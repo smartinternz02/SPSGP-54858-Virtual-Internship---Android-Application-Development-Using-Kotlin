@@ -33,8 +33,13 @@ We are going to build a grocery application in android using Android Studio. Man
 The grocery cart application project will help the user or admin to store the list of items in proper sequence. User/Admin can add and remove the items in the list according to his/her will.
  
 •	UI DESIGN IN THE ANDROID PLATFORM
+
 •	ANDROID APPLICATION DEVELOPMENT
+
 •	DATABASE CONNECTION TO STORE USER DATA
+
+![image](https://user-images.githubusercontent.com/71881295/191744751-6e435501-dcbe-405e-a13e-b09ef2ebd7b0.png)
+
 
 
 
