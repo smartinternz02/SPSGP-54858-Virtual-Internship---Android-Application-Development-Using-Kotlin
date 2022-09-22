@@ -28,3 +28,24 @@ The goal of this project is to make an app that stores the user items in a cart 
 
 ### **1.5 Introduction:**
 We are going to build a grocery application in android using Android Studio. Many times we forget to purchase things that we want to buy, after all, we can’t remember all the items, so with the help of this app, you can note down your grocery items that you are going to purchase, by doing this you can’t forget any items that you want to purchase. In this project, we are using (MVVM) for architectural patterns, Room for database, Recycler View and Coroutines to display the list of items.
+## **Chapter-II**
+### **2.1 Background:**
+The grocery cart application project will help the user or admin to store the list of items in proper sequence. User/Admin can add and remove the items in the list according to his/her will.
+ 
+•	UI DESIGN IN THE ANDROID PLATFORM
+•	ANDROID APPLICATION DEVELOPMENT
+•	DATABASE CONNECTION TO STORE USER DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
