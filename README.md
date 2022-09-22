@@ -38,7 +38,7 @@ The grocery cart application project will help the user or admin to store the li
 
 •	DATABASE CONNECTION TO STORE USER DATA
 
-![image](https://user-images.githubusercontent.com/71881295/191744751-6e435501-dcbe-405e-a13e-b09ef2ebd7b0.png)
+![image](https://user-images.githubusercontent.com/71881295/191746122-32976452-f98a-46b4-837d-df3d959f7116.png)
 ## **Chapter-III**
 ### **3.1 Software Requirements:**
 The Software Package is developed using Kotlin and Android Studio, basic SQL commands are used to store the database.
