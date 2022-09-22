@@ -49,6 +49,11 @@ Emulator: Pixel 4 API 30
 RAM: 16 GB RAM
 ROM: 20 GB ROM
 ## **Chapter-IV**
+### **4.1 MVVM (Model View ViewModel):**
+MVVM architecture in android is used to give structure to the project’s code and understand code easily. MVVM is an architectural design pattern in android. MVVM treat Activity classes and XML files as View. This design pattern completely separate UI from its logic. Here is an image to quickly understand MVVM. 
+![image](https://user-images.githubusercontent.com/71881295/191746970-79b2d88d-08da-40a7-9736-7850920185fa.png)
+
+
 
 
 
