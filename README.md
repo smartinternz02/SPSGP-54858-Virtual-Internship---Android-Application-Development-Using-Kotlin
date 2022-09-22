@@ -39,6 +39,18 @@ The grocery cart application project will help the user or admin to store the li
 •	DATABASE CONNECTION TO STORE USER DATA
 
 ![image](https://user-images.githubusercontent.com/71881295/191744751-6e435501-dcbe-405e-a13e-b09ef2ebd7b0.png)
+## **Chapter-III**
+### **3.1 Software Requirements:**
+The Software Package is developed using Kotlin and Android Studio, basic SQL commands are used to store the database.
+Operating System: Windows 11
+Software: Kotlin and Java
+Emulator: Pixel 4 API 30
+### **3.2 Hardware Requirements:**
+RAM: 16 GB RAM
+ROM: 20 GB ROM
+## **Chapter-IV**
+
+
 
 
 
