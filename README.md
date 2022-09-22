@@ -17,8 +17,12 @@ The main aim of this project is to list the items so that whenever users go to g
 It’s not easy for the users to remember every item in this hectic lifestyle, they frequently can’t recall their required necessity so we decided to build an app to store the items in the database for their future use. After buying the items users can delete the added items in the database.
 ### **1.4 Problem's Primary Goals:**
 The goal of this project is to make an app that stores the user items in a cart and can modify and delete the added item in the list. To develop a reliable system, I have some specific goals such as:
+
 	Develop a system such that users can add item details like product name, product Quantity, and Product Price.
+
 	Develop a database room that is used to store the user data which already been added by the user in the cart and the user can also remove the previously added item in the cart.
+
 	Develop a good UI design that user friendly to the user.
+
 	Develop a good UI that is supported for all android devices.
 
