@@ -1,7 +1,7 @@
 # SPSGP-54858-Virtual-Internship---Android-Application-Development-Using-Kotlin
 # **GROCERY LIST APPLICATION USING KOTLIN IN ANDROID STUDIO**
 ## **Chapter-I**
-### **Abstract:**
+### **1.1 Abstract:**
 Shopping is one of the activities that some people consider part of their life, while others do not even think of it. This comparison makes us discover people's problems with shopping. People have shopping problems such as limited time, expats in foreign countries without cars, a transportation issue, people consider physical shopping as a waste of time, health issues, long-distance to market and the difficulty in obtaining some items. 
 
 As the problems mentioned above, we have explored our idea, which is related to personal shopping. Therefore, we have built an application that combines different market shops, i.e. (Malls, supermarkets, and pharmacies). 
