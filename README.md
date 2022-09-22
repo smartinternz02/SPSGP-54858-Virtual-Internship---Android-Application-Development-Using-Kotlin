@@ -59,6 +59,12 @@ RecyclerView is a container and it is used to display the collection of data in 
 ### **4.4 Coroutines:**
 Coroutines are a lightweight thread, we use coroutines to perform an operation on other threads, by this our main thread doesn’t block and our app doesn’t crash.
 ## **Step By Step Process**
+### **Step 1: Create a New Project**
+To create a new project in Android Studio please refer to How to Create/Start a New Project in Android Studio. 
+Note that select Kotlin as the programming language.
+### **Step 2: Before going to the coding section first you have to do some pre-task**
+Before going to the coding part first add these libraries in your gradle file and also apply the plugin as ‘kotlin-kapt’. To add these library go to Gradle Scripts > build.gradle(Module: app).
+
 
 
 
