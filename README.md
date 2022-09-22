@@ -32,11 +32,11 @@ We are going to build a grocery application in android using Android Studio. Man
 ### **2.1 Background:**
 The grocery cart application project will help the user or admin to store the list of items in proper sequence. User/Admin can add and remove the items in the list according to his/her will.
  
-•	UI DESIGN IN THE ANDROID PLATFORM
+	UI DESIGN IN THE ANDROID PLATFORM
 
-•	ANDROID APPLICATION DEVELOPMENT
+	ANDROID APPLICATION DEVELOPMENT
 
-•	DATABASE CONNECTION TO STORE USER DATA
+	DATABASE CONNECTION TO STORE USER DATA
 
 ![image](https://user-images.githubusercontent.com/71881295/191746122-32976452-f98a-46b4-837d-df3d959f7116.png)
 ## **Chapter-III**
@@ -52,9 +52,13 @@ ROM: 20 GB ROM
 ### **4.1 MVVM (Model View ViewModel):**
 MVVM architecture in android is used to give structure to the project’s code and understand code easily. MVVM is an architectural design pattern in android. MVVM treat Activity classes and XML files as View. This design pattern completely separate UI from its logic. Here is an image to quickly understand MVVM. 
 ![image](https://user-images.githubusercontent.com/71881295/191746970-79b2d88d-08da-40a7-9736-7850920185fa.png)
-
-
-
+### **4.2 ROOM Database:**
+Room persistence library is a database management library and it is used to store the data of apps like grocery item name, grocery item quantity, and grocery item price. Room is a cover layer on SQLite which helps to perform the operation on the database easily.
+### **4.3 RecycleView:**
+RecyclerView is a container and it is used to display the collection of data in a large amount of dataset that can be scrolled very effectively by maintaining a limited number of views.
+### **4.4 Coroutines:**
+Coroutines are a lightweight thread, we use coroutines to perform an operation on other threads, by this our main thread doesn’t block and our app doesn’t crash.
+## **Step By Step Process**
 
 
 
