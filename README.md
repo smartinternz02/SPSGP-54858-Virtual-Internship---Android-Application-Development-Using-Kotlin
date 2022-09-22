@@ -13,4 +13,12 @@ Moreover, people can order the product from home instead of going around for lon
 Finally, some people do not have transportation methods for shopping, and they should keep pace with the evolution.
 ### **1.2 Objective:**
 The main aim of this project is to list the items so that whenever users go to grocery stores, users will not be able to forget their items and this grocery application helps the users to tackle their day to day chaos more effortlessly. 
+### **1.3 Problem Targeted:**
+It’s not easy for the users to remember every item in this hectic lifestyle, they frequently can’t recall their required necessity so we decided to build an app to store the items in the database for their future use. After buying the items users can delete the added items in the database.
+### **1.4 Problem's Primary Goals:**
+The goal of this project is to make an app that stores the user items in a cart and can modify and delete the added item in the list. To develop a reliable system, I have some specific goals such as:
+	Develop a system such that users can add item details like product name, product Quantity, and Product Price.
+	Develop a database room that is used to store the user data which already been added by the user in the cart and the user can also remove the previously added item in the cart.
+	Develop a good UI design that user friendly to the user.
+	Develop a good UI that is supported for all android devices.
 
