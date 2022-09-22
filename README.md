@@ -11,5 +11,6 @@ This personal grocery shopping is an innovative app that allows the customers to
 Moreover, people can order the product from home instead of going around for long distances for shopping. In addition, this app could help people who are facing health problems and unable to buy something physically to avoid future problems.
  
 Finally, some people do not have transportation methods for shopping, and they should keep pace with the evolution.
-
+### **1.2 Objective:**
+The main aim of this project is to list the items so that whenever users go to grocery stores, users will not be able to forget their items and this grocery application helps the users to tackle their day to day chaos more effortlessly. 
 
