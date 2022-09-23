@@ -76,9 +76,13 @@ SlideME, Opera Mobile Store, Mobango, F-droid and the Amazon Appstore.
 ➢ Following are main components of android architecture those are:
 
 • Applications
+
 • Android Framework
+
 • Android Runtime
+
 • Platform Libraries
+
 • Linux Kernel
 
 ➢ Linux kernel :
@@ -93,14 +97,23 @@ record audio and video, SSL libraries responsible for Internet security etc. som
 key core Android libraries available to the Android developer is as follows:-
 
 • android.app
+
 • android.content
+
 • android.database
+
 • android.opengl
+
 • android.os
+
 • android.text
+
 • android.view
+
 • android.widget
+
 • android.webkit
+
 
 
 
