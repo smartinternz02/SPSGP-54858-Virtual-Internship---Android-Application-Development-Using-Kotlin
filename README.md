@@ -48,6 +48,7 @@ Google publishes most of the code under the Apache License version 2.0 and the r
 Linux kernel changes, under the GNU General Public License version 2.
 ### **1.1 Android Features and Applications:**
 FEATURES:
+
 ➢ Android is a powerful operating system competing with Apple 4GS and supports
 great features. Few of them are listed below :
 • Beautiful UI
@@ -59,7 +60,9 @@ great features. Few of them are listed below :
 • GCM
 • Wi-Fi Direct
 • Android Beam
+
  APPLICATIONS:
+ 
 ➢ Android applications are usually developed in the Java language using the Android
 Software Development Kit. Once developed, Android applications can be
 packaged easily and sold out either through a store such as Google Play,
