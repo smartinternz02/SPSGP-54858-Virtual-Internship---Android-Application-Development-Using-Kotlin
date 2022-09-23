@@ -69,7 +69,12 @@ packaged easily and sold out either through a store such as Google Play,
 SlideME, Opera Mobile Store, Mobango, F-droid and the Amazon Appstore.
 ## **CATEGORIES OF ANDROID APPLICATIONS**
 ![image](https://user-images.githubusercontent.com/71881295/191940234-cae24c66-7df7-4ec9-9f00-15fbf85fd7cb.png)
-### **1.2 :**
+### **1.2 Android Architecture**
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71881295/191940869-87dfe994-853b-477a-a9c8-d4e2822ea9f2.png">
+</p>
+
+
 
 
 
