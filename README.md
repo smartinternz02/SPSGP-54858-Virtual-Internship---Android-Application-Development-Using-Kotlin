@@ -28,8 +28,9 @@ with various cross-platform approaches is discussed.
 Android is an open source and Linux-based Operating System for mobile devices such
 as smartphones and tablet computers. Android was developed by the Open Handset
 Alliance, led by Google, and other companies.
+<p align="center">
 ![image](https://user-images.githubusercontent.com/71881295/191936226-965eb80d-3eb3-4ade-a14e-5d8d736001ef.png)
-
+</p>
 Android offers a unified approach to application development for mobile devices which
 means developers need only develop for Android, and their applications should be able
 to run on different devices powered by Android.
