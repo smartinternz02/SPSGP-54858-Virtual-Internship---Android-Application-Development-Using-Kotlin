@@ -114,6 +114,14 @@ key core Android libraries available to the Android developer is as follows:-
 
 • android.webkit
 
+➢ Android Runtime:
+
+This is the third section of the architecture and available on the second layer from
+the bottom. This section provides a key component called Dalvik Virtual
+Machine which is a kind of Java Virtual Machine specially designed and
+optimized for Android. Application Framework: The Application Framework layer
+provides many higher-level services to applications in the form of Java classes.
+
 
 
 
