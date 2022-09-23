@@ -67,6 +67,8 @@ great features. Few of them are listed below :
 Software Development Kit. Once developed, Android applications can be
 packaged easily and sold out either through a store such as Google Play,
 SlideME, Opera Mobile Store, Mobango, F-droid and the Amazon Appstore.
+## **CATEGORIES OF ANDROID APPLICATIONS**
+![image](https://user-images.githubusercontent.com/71881295/191940234-cae24c66-7df7-4ec9-9f00-15fbf85fd7cb.png)
 ### **1.2 :**
 
 
