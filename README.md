@@ -121,6 +121,17 @@ the bottom. This section provides a key component called Dalvik Virtual
 Machine which is a kind of Java Virtual Machine specially designed and
 optimized for Android. Application Framework: The Application Framework layer
 provides many higher-level services to applications in the form of Java classes.
+➢ The Android framework includes the following key services:-
+
+• Activity Manager
+
+• Content Providers
+
+• Resource Manager
+
+• Notifications Manager
+
+• View System
 
 
 
