@@ -73,6 +73,13 @@ SlideME, Opera Mobile Store, Mobango, F-droid and the Amazon Appstore.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71881295/191940869-87dfe994-853b-477a-a9c8-d4e2822ea9f2.png">
 </p>
+➢ Following are main components of android architecture those are
+• Applications
+• Android Framework
+• Android Runtime
+• Platform Libraries
+• Linux Kernel
+
 
 
 
