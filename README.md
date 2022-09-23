@@ -2,15 +2,27 @@
 # **GROCERY LIST APPLICATION USING KOTLIN IN ANDROID STUDIO**
 ## **Chapter-I**
 ### **1.1 Abstract:**
-Shopping is one of the activities that some people consider part of their life, while others do not even think of it. This comparison makes us discover people's problems with shopping. People have shopping problems such as limited time, expats in foreign countries without cars, a transportation issue, people consider physical shopping as a waste of time, health issues, long-distance to market and the difficulty in obtaining some items. 
-
-As the problems mentioned above, we have explored our idea, which is related to personal shopping. Therefore, we have built an application that combines different market shops, i.e. (Malls, supermarkets, and pharmacies). 
-
-This personal grocery shopping is an innovative app that allows the customers to get all their needs and suggest items based on previous history. Then deliver items to their doorstep and can facilitate online shopping procedure where customers can browse unlimited products all at one time. This work supports people in exploiting their time to be safer and more accessible than wasting it physically.
-
-Moreover, people can order the product from home instead of going around for long distances for shopping. In addition, this app could help people who are facing health problems and unable to buy something physically to avoid future problems.
- 
-Finally, some people do not have transportation methods for shopping, and they should keep pace with the evolution.
+Android is an open-source operating system that runs on the linux kernel. With the advent of
+new mobile technologies, the mobile application industry is advancing rapidly. Consisting of
+several operating systems like symbian OS, iOS, blackberry, etc., Android OS is recognized as
+the most widely used, popular and user-friendly mobile platform. This open-source linux kernelbased operating system offers high flexibility due to its customization properties making it a
+dominant mobile operating system.
+Android applications are developed using the java language. Google has its own Software
+Development Kit (SDK) which enables these java codes to control devices like mobile phones,
+tablets, etc. Android mobile application development provides a flexible platform for developers
+where they can use both java Integrated Development Environment (IDEs) and android java
+libraries.
+Google android SDK delivers a special software stack that provides developers an easy platform
+to develop android applications. Moreover, developers can make use of existing java IDEs which
+provides flexibility to the developers. Java libraries are predominant in the process of third-party
+application development. Cross-platform approaches make sure that developers do not have to
+develop platform-dependent applications. With the help of these approaches, an application can
+be deployed to several platforms without the need for changes in coding. However, android is
+more prone to security vulnerabilities which the majority of the users do not take into account.
+Any android developer can upload their application on the android market which can cause a
+security threat to any android device. These applications do not have to go through rigorous
+security checks. In this report, a layered approach for android application development along
+with various cross-platform approaches is discussed.
 ### **1.2 Objective:**
 The main aim of this project is to list the items so that whenever users go to grocery stores, users will not be able to forget their items and this grocery application helps the users to tackle their day to day chaos more effortlessly. 
 ### **1.3 Problem Targeted:**
