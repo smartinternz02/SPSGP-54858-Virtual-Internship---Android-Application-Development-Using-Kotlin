@@ -132,6 +132,11 @@ provides many higher-level services to applications in the form of Java classes.
 • Notifications Manager
 
 • View System
+➢ Applications:
+
+You will find all the Android application at the top layer. You will write your
+application to be installed on this layer only. Examples of such applications are
+Contacts Books, Browser, Games etc.
 
 
 
