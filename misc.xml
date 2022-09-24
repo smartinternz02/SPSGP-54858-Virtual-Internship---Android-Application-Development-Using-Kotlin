@@ -3,11 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Divya/AndroidStudioProjects/GroceryApp/app/src/main/res/drawable/btn_bg.xml" value="0.3175" />
-        <entry key="..\:/Users/Divya/AndroidStudioProjects/GroceryApp/app/src/main/res/drawable/header_bg.xml" value="0.3175" />
-        <entry key="..\:/Users/Divya/AndroidStudioProjects/GroceryApp/app/src/main/res/layout/activity_main.xml" value="0.3625" />
-        <entry key="..\:/Users/Divya/AndroidStudioProjects/GroceryApp/app/src/main/res/layout/grocery_add_dialog.xml" value="0.33" />
-        <entry key="..\:/Users/Divya/AndroidStudioProjects/GroceryApp/app/src/main/res/layout/grocery_rv_item.xml" value="0.3625" />
+        <entry key="..\:/Users/Sasidhara Kashyap Ch/Desktop/SPSGP-54858-Virtual-Internship---Android-Application-Development-Using-Kotlin-main/app/src/main/res/layout/grocery_add_dialog.xml" value="0.1" />
       </map>
     </option>
   </component>
